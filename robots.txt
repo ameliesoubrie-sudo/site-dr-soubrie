@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dr-soubrie-antoine.chirurgiens-dentistes.fr/sitemap.xml
